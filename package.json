@@ -1,0 +1,15 @@
+{
+  "name": "node-grpc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Dragan1810/node-grpc.git",
+  "author": "dragan1810 <d.novakovic1810@yahoo.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node src/index"
+  },
+  "dependencies": {
+    "grpc": "^1.24.0",
+    "uuid": "^3.3.3"
+  }
+}
